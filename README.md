@@ -44,6 +44,3 @@ heroi2.atacar(); // O mago atacou usando magia
 node classes-jogo.js
 ```
 
----
-
-Feito com 💻 por [Seu Nome]
